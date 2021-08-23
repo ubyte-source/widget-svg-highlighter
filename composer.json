@@ -1,0 +1,26 @@
+{
+  "name": "widget/svg-highlighter",
+  "type": "library",
+  "description": "Javascript widget svg-highlighter",
+  "keywords": [
+    "ubyte",
+    "client-side",
+    "widget",
+    "svg-highlighter"
+  ],
+  "homepage": "https://github.com/energia-source/widget-svg-highlighter",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Paolo Fabris",
+      "email": "support@ubyte.it",
+      "homepage": "https://www.ubyte.it/",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "SvgHighlighter\\": "lib/"
+    }
+  }
+}
