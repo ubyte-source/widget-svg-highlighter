@@ -56,8 +56,8 @@ let svg.setElement(SvgHighlighter.Type.text(), 'yourid', {
 ## Structure
 
 library:
-    - [window.SvgHighlighter](https://github.com/energia-source/widget-svg-highlighter#class-windownsvghighlighter-usable-methods)
-    - [window.SvgHighlighter.Type](https://github.com/energia-source/widget-svg-highlighter#class-windownsvghighlightertype-usable-methods)
+- [window.SvgHighlighter](https://github.com/energia-source/widget-svg-highlighter#class-windownsvghighlighter-usable-methods)
+- [window.SvgHighlighter.Type](https://github.com/energia-source/widget-svg-highlighter#class-windownsvghighlightertype-usable-methods)
 
 <br>
 
